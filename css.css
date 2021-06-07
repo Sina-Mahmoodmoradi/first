@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(233, 222, 252);
+    
+}
+.parent{
+    text-align:center;
+    background-color:white;
+    width:500px;
+    height:800px;
+    border-radius: 4%;
+    margin:auto;
+    position: relative;
+    top:10px;
+}
+.name{
+font-family: cursive;
+font-size: 200%;
+font-weight:bold;
+position:relative;
+top:20px;
+
+}
+.name span{
+    font-size:80%;
+    font-weight:300;
+}
+.parent img{
+    width:100px;
+}
+.position span{
+    font-family:cursive;
+    font-weight: bold;
+    font-size:170%;
+    position:relative;
+    top: -40px;
+    left:20px;
+}
+.position{
+    text-align:left;
+    position: relative;
+    left:40px;
+    top:60px;
+ }
+.container{
+    position:relative;
+    top:50px;
+}
+#profile{
+    text-align:center;
+
+    
+}
+#profile img{
+    border: 5px solid orange;
+    text-align:center;
+    border-radius:50%;
+
+}
